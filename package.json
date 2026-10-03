@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Jenkins CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  }
+}
